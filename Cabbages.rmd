@@ -25,6 +25,8 @@ veggy <- cabbages
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+After looking at the variable, it looks like we have a numerical variable (how much vitamin C are in the crop) explained by a categorical variable (which of the two cultivation method was used). Those cultivation methods are called c39 and c52 methods.
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
