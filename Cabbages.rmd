@@ -35,7 +35,13 @@ After looking at the variable, it looks like we have a numerical variable (how m
 
 ### Graphical Descriptive Results
 
+```{r}
+boxplot(VitC~Cult,data=veggy)
+```
+
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+
+It seems as if Q1 of c52 is larger than Q3 of c39. This leads to a result that says they are statistically different.
 
 ### Numerical Descriptive Results
 
