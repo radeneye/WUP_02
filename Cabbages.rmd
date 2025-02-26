@@ -65,4 +65,5 @@ The null hypothesis is there is no difference between these two methods of culti
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+First, we plotted the relationship between the VitC levels and the cultivation methods, c39 and c52, using a boxplot and described the results that we've seen. Then, we took a look at the numerical results and again wrote comments on what we seen. Lastly, we ran a t-test, stated our null hypothesis, found the probability, and ultimately rejected the null hypothesis because the probability was exceedingly small. Thus, we decided that the two cultivation methods are very different and that the c52 method produces a larger amount of vitamin C in the cabbages than thew c39 method.
