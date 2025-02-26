@@ -55,8 +55,13 @@ Q1 of c39 is at 46 and Q1 of c52 is at 58. Both c39 and c52 have 30 numerical va
 
 ## Inferential Results
 
+```{r}
+t.test(VitC~Cult,data=veggy)
+```
+
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
+The null hypothesis is there is no difference between these two methods of cultivation, c39 and c52, in reference to the amount of vitamin C in the cabbages. The probability of getting a result like this is 0.00000003405. Statistically, I reject the null hypothesis. The chances to get this result is exceedingly low as mentioned above. There is a big difference between the c39 and c52 methods, if you want a large amount of vitamin C in your cabbages, you should use the c52 method.
 
 # Discussion and Conclusion
 
