@@ -51,7 +51,7 @@ favstats(VitC~Cult,data=veggy)
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
-Q1 of c39 is at 46 and Q1 of c52 is at 58. Both c39 and c52 have 30 numerical values in them.
+Q3 of c39 is at 54.75 and Q1 of c52 is at 58. Both c39 and c52 have 30 numerical values in them. The Q1 of c52 is larger than the Q3 of c39.
 
 ## Inferential Results
 
